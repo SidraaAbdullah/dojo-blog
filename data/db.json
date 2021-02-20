@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it?\nIt is a long eastablished fact thata reader will be distracted.We know that companies pay a lot of money for advertising. A study by emarketer.com estimates that the world’s global ad spending will reach USD600 billion by the end of 2020. That means the total amount companies spend on ads is higher than the individual GDP of at least 150 countries! But what does running ads entail? Well, there are a few simple ways to leverage the growing demand for advertising.The first way is through banner ads. These are the kinds of ads you see on websites and apps. If you’ve ever been annoyed by these kinds of ads in the past, then get ready to make them your best friend.But you can only truly leverage these kinds of ads if you have a big niche market. You have to make sure that your content drives a big enough readership or viewership that advertisers feel excited to capitalise on a good ad placement. That’s why this method is best for those with websites, or those with apps, because it’s easy for advertisers to place their bets on markets already targeted by your content.Aside from this, you can also do video or shoutout ads, which is how many YouTubers, Instagram celebrities, and podcasters make their money. It’s as simple as making sure your content is monetisable and showing the stats to potential advertisers.      For YouTube, it’s more or less automatic for good content to get paired with good advertisers. However, if you’re thinking of venturing into this platform, know that this isn’t the simplest feat. You still need a certain amount of watch time and subscribers to monetise your channel. As of 2018, the requirement is to have at least 1,000 subscribers and hit 4,000 hours of watch time within the span of a year.Finally, there’s affiliate marketing. This is the kind of advertising where you receive a commission whenever someone buys products from online services like Amazon, or other brands that offer discount codes. It’s been shown that 81% of brands leverage the power of affiliate marketing because of its simple setup of promoting products and receiving a cut.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Opening party",
+      "body": "Why do we use it?\nIt is a long eastablished fact thata reader will be distracted.We know that companies pay a lot of money for advertising. A study by emarketer.com estimates that the world’s global ad spending will reach USD600 billion by the end of 2020. That means the total amount companies spend on ads is higher than the individual GDP of at least 150 countries! But what does running ads entail? Well, there are a few simple ways to leverage the growing demand for advertising.The first way is through banner ads. These are the kinds of ads you see on websites and apps. If you’ve ever been annoyed by these kinds of ads in the past, then get ready to make them your best friend.But you can only truly leverage these kinds of ads if you have a big niche market. You have to make sure that your content drives a big enough readership or viewership that advertisers feel excited to capitalise on a good ad placement. That’s why this method is best for those with websites, or those with apps, because it’s easy for advertisers to place their bets on markets already targeted by your content.Aside from this, you can also do video or shoutout ads, which is how many YouTubers, Instagram celebrities, and podcasters make their money. It’s as simple as making sure your content is monetisable and showing the stats to potential advertisers.      For YouTube, it’s more or less automatic for good content to get paired with good advertisers. However, if you’re thinking of venturing into this platform, know that this isn’t the simplest feat. You still need a certain amount of watch time and subscribers to monetise your channel. As of 2018, the requirement is to have at least 1,000 subscribers and hit 4,000 hours of watch time within the span of a year.Finally, there’s affiliate marketing. This is the kind of advertising where you receive a commission whenever someone buys products from online services like Amazon, or other brands that offer discount codes. It’s been shown that 81% of brands leverage the power of affiliate marketing because of its simple setup of promoting products and receiving a cut.",
+      "author": "youshi",
+      "id": 2
+    },
+    {
+      "title": "Birthday Party",
+      "body": "Birthday Party Essay: Birthdays are celebrated in the most gracious way as they come once a year. Inviting friends and relatives for cute parties at home and treating them with special celebrations bring in happiness and joy on the day. Elders pour their blessings and wish them a long journey ahead in life.",
+      "author": "youshi",
+      "id": 3
+    },
+    {
+      "title": "Fresher's party",
+      "body": "Freshers Day Speech by HOD Good afternoon everybody, My Dear colleagues and my dear students, You are celebrating Freshers’ Day 2012 in a very colorful way.My compliments to you all. At the outset, I would like to congratulate the freshers i.e. third sem students for a glorious task that they have done. That is choosing PDIT as your alma-mater.",
+      "author": "youshi",
+      "id": 5
+    }
+  ]
+}
